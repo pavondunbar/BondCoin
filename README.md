@@ -1,3 +1,7 @@
+<p align="center"><img width="684" alt="Screenshot 2025-01-02 at 2 02 46 PM" src="https://github.com/user-attachments/assets/d7c83db1-957d-45eb-b306-0c85368e0b37" /></p>
+
+<p align="center">Image Source: https://medium.com/@0xkryptokeisarii/pump-fun-complete-tutorial-april-2024-282462dc9a9a</p>
+
 ## BondCoin Smart Contract
 A two-way bonding curve token contract that enables automated market making between BOND tokens and AGC (ArgoCoin). This contract implements a linear pricing curve that increases with supply and provides predictable token pricing. 
 
